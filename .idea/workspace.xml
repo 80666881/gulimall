@@ -5,39 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c6e4768-a4a6-4a64-8cb2-e6b1f620e7c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/main/java/com/zeller/product/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/main/java/com/zeller/product/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/main/java/com/zeller/product/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/main/java/com/zeller/product/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/main/java/com/zeller/product/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/main/java/com/zeller/product/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/zeller/product/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/zeller/product/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/zeller/product/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/zeller/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/zeller/product/src/main/java/com/zeller/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/zeller/product/src/test/java/com/zeller/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/test/java/com/zeller/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/gulimall_oms.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/gulimall_pms.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/gulimall_sms.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/gulimall_ums.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/gulimall_wms.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/pms_catelog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sys_menus.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/zeller/IdeaProjects/gulimall",
+    "last_opened_file_path": "/Users/zeller/IdeaProjects/gulimall/sql",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -71,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/product/src/main/java/com/zeller" />
     </key>
